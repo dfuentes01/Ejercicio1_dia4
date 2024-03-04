@@ -1,0 +1,65 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+.barra {
+    top:0px ;
+    left: 0px;
+    height: 99px;
+    background: #000f08 0% 0% no-repeat;
+    opacity: 1;
+}
+
+.barra li{
+
+    display: inline-block; /*pone las listas en linea horizontal*/
+    vertical-align: middle;
+    margin-left: 57px; /*separacion a la derecha del elemento*/
+    margin-top: 22px;
+
+    
+}
+
+.barra a{
+    color: #ffffff;
+    text-decoration: none; /*quita el subrayado de texto*/
+    font-size: 25px;
+    
+        
+}
+
+.foto1 {
+    background-image: url("../img/bg-hero.png");
+    background-position: center;
+    background-size: cover;
+    padding: 100px 150px ;
+    color: #ffffff;
+    text-align: right;
+    font-size: 25px;
+
+}
+
+.foto1 h1 { 
+    font:  normal 800 60px/82px Open Sans; 
+    /*codigo copiado directamente de la maqueta XD.ADOBE*/
+
+}
+
+.foto1 h2 { 
+    font: normal normal normal 40px/55px Open Sans;}
+    /*codigo copiado directamente de la maqueta XD.ADOBE*/
+.foto2 {
+    text-align: center;
+    padding-top: 100px;
+    font-size: 25px ;
+
+.speaker {
+display: inline-block;
+}
+
+.texto3 {
+
+    display: inline-block;
+    text-decoration: none;
+}
+
+
